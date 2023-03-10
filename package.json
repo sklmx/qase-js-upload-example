@@ -1,0 +1,13 @@
+{
+  "main": "./index.js",
+  "engines": {
+    "node": ">=10"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "qaseio": "^2.0.1"
+  }
+}
